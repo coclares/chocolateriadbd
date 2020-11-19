@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <head>
+        <title>Administrador</title>
+        <link rel="stylesheet" href="CSS/Estilo.css">
+    </head>
+    <body>
+        <div class="Contenedor">
+            <form action="formulario.html" method="GET">
+                <!--Formulario se debe guardar en la base de datos-->
+                <h1>Datos-Categoría</h1> 
+            <h4>Id Categoría:<input type="number" placeholder="Identificación de la Categoría"/><br>
+            Nombre Categoría:<input type="text" placeholder="Nombre de la Categoría" /><br>
+            Imagen Categoría:<input type="file" name="archivo"><br>
+            Stock Categoría: <br><input type="number" placeholder="Cantidad disponible de la Categoría"></input></h4>
+            <button class="btn btn-primary" type="button" onclick="location.href='formulario.html'">Enviar</button>
+            <button class="btn btn-primary" type="reset" value="Borrar">Borrar</button>
+            <button onclick="location.href='login.html'"type="button" class="btn btn-primary">Salir</button>
+            </form><br>
+        
+    </div><br>
+    </body>
+</html>
