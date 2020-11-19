@@ -1,0 +1,68 @@
+body{
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2015/12/Fondos-de-colores-lisos.jpg");
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1350px;
+    
+}
+.buscar{
+    color: black;
+    text-align: left; 
+    margin-top: 30px;
+}
+.ramasblancas{
+    width: 250px;
+   
+}
+.blancas{
+    margin-left: -50px;
+    margin-top: 50px;
+}
+.ramasamargas{
+    width: 250px;  
+}
+.amargo{
+    margin-top: 220px;
+    margin-left: 770px;
+}
+.ramasnormal{
+    width: 250px;
+   
+}
+.normal{
+    margin-left: -50px;
+    margin-top: 210px;
+}
+.container{
+    color: black;
+    text-align: left;
+    margin-top: 20px;
+}
+.carrito{
+    color:black;
+    position: absolute;
+	top: 26%;
+	left: 90%;
+	margin: -150px 0 0 10px;
+    
+}
+.botonamarillo{
+    margin-top: 60px;
+    text-align: right;
+}
+.cantidad{
+    margin-left: 350px;
+    color:black;
+    margin-top: -120px;
+}
+.cantidad2{
+    margin-left: -380px;
+    color:black;
+    margin-top: -150px;
+}
+.cantidad3{
+    margin-left: 350px;
+    color:black;
+    margin-top: -150px;
+}

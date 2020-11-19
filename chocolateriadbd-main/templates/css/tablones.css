@@ -1,0 +1,71 @@
+body{
+    background-image: url("https://us.123rf.com/450wm/worraset/worraset1705/worraset170500047/77392563-fondo-de-grunge-acuarela-abstracta-pastel-color-vintage-suave-con-colores-x28-tonos-de-blanco-amaril.jpg?ver=6");
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1350px;
+    
+}
+.buscar{
+    color: black;
+    text-align: left; 
+    margin-top: 30px;
+}
+.chispasblancas{
+    width: 250px;
+   
+}
+.blancas{
+    margin-left: -50px;
+    margin-top: 50px;
+}
+.chispasamargas{
+    width: 250px;  
+}
+.amargo{
+    margin-top: 220px;
+    margin-left: 770px;
+}
+.chispasnormal{
+    width: 250px;
+   
+}
+.normal{
+    margin-left: -50px;
+    margin-top: 210px;
+}
+.container{
+    color: black;
+    text-align: left;
+    margin-top: 20px;
+}
+.carrito{
+    color:black;
+    position: absolute;
+	top: 26%;
+	left: 90%;
+	margin: -150px 0 0 10px;
+    
+}
+.botonamarillo{
+    margin-top: 60px;
+    text-align: right;
+}
+.cantidad{
+    margin-left: 350px;
+    color:black;
+    margin-top: -120px;
+}
+.cantidad2{
+    margin-left: -380px;
+    color:black;
+    margin-top: -100px;
+}
+.cantidad3{
+    margin-left: 350px;
+    color:black;
+    margin-top: -100px;
+}
+
+
+
