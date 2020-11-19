@@ -41,7 +41,10 @@ body{
 }
 .carrito{
     color:white;
-    margin-top: -930px;
+    position: absolute;
+	top: 26%;
+	left: 90%;
+	margin: -150px 0 0 10px;
     
 }
 .botonamarillo{
